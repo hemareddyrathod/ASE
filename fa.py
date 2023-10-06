@@ -1,9 +1,3 @@
-def factorial(n):
-    if n == 0:
-        return 1
-    else:
-        return n * factorial(n-1)
-
-if __name__ == "__main__":
-    num = int(input("Enter a number: "))
-    print("Factorial:", factorial(num))
+a = 2
+b = 8
+print(a + b)
